@@ -1,7 +1,7 @@
 # Portfolio
 
 ## 소개
-![프로필이미지](https://github.com/kimmj8205/Portfolio/Profileimage.jpeg)
+![프로필이미지](https://github.com/kimmj8205/Portfolio/Profileimage.jpg)
 - 이름: 김민준
 - 취미: 독서, 영화감상
 - Email: kimmj8205@hanyang.ac.kr
