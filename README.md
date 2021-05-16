@@ -7,7 +7,7 @@
 - Email: kimmj8205@hanyang.ac.kr
 - GitHub: [github.com/kimmj8205](https://github.com/kimmj8205)
 ```
-모두가 필요로하는 다재다능한 인재를 목표로 하고있습니다.
+모두가 필요로 하는 다재다능한 인재를 목표로 하고있습니다.
 ```
 
 ## 학력
