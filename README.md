@@ -24,10 +24,10 @@
 ##### Android
 #### C
 #### HTML5, CSS, Javascript
-##### ajax
-##### express
+- ajax
+- express
 #### SQL
-##### MySQL(MariaDB)
+- MySQL(MariaDB)
 
 ## Projects
 
@@ -42,8 +42,8 @@
 |2014.08|자격증|E-TEST Professionals 1급|삼성SDS 멀티캠퍼스|최종합격|
 
 ## Interest
-#### UI/UX Design
-#### IoT
+- UI/UX Design
+- IoT
 
 ## TODO
 **새로운것**을 배우는건 언제나 즐거운 일입니다. <br/>
