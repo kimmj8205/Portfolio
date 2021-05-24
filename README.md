@@ -21,7 +21,7 @@
 ## Skills
 #### Python
 #### Java
-##### Android
+- Android
 #### C
 #### HTML5, CSS, Javascript
 - ajax
@@ -29,7 +29,6 @@
 #### SQL
 - MySQL(MariaDB)
 
-## Projects
 
 ## 자격/수상
 |취득일/수상일|구분|자격/어학/수상명|발행처/기관/언어|합격/점수|
@@ -41,9 +40,11 @@
 |2014.08|자격증|GTQ포토샵1급|한국생산성본부(KPC)|최종합격|
 |2014.08|자격증|E-TEST Professionals 1급|삼성SDS 멀티캠퍼스|최종합격|
 
+
 ## Interest
 - UI/UX Design
-- IoT
+- IoT Service
+
 
 ## TODO
 **새로운것**을 배우는건 언제나 즐거운 일입니다. <br/>
