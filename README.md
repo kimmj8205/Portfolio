@@ -41,6 +41,22 @@
 |2014.08|자격증|E-TEST Professionals 1급|삼성SDS 멀티캠퍼스|최종합격|
 
 
+## Projects
+![PY](img)
+### [The Adventures of Slime](https://github.com/kimmj8205/Python/tree/master/Game%20Project)
+- 기간 : 2018.04.30 ~ 2018.06.20
+- 유형 : 게임
+- 역할 : 프로그래밍
+- 사용기술 : Python, Pygame
+
+![SPOT](img)
+### [Smart POT](https://github.com/kimmj8205/Arduino-Project/tree/master/Arduino%20Project/SPOT상세내용확인)
+- 기간 : 2019.03.04 ~ 2019.06.20
+- 유형 : 임베디드 시스템
+- 역할 : 제품설계, 음성녹음, 프로그래밍
+- 사용기술 : Arduino
+
+
 ## Interest
 - UI/UX Design
 - IoT Service
