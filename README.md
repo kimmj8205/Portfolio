@@ -11,23 +11,16 @@
 ```
 
 ## 학력
-#### 고잔고등학교 졸업(2015-2017)
+#### 고잔고등학교 졸업(2015-2018)
 #### 한양대학교 ERICA캠퍼스 소프트웨어융합대학 ICT융합학부(2018 입학)
 - 주전공 : ICT융합학부 미디어테크놀로지전공
-- 복수전공 : 연계전공대학 디자인공학전공
 
-- 평점 : 3.9 / 4.5
+- 평점 : 3.91 / 4.5
 
 ## Skills
+#### C#(Winform, wpf, ASP.NET)
 #### Python
-#### Java
-- Android
-#### C
-#### HTML5, CSS, Javascript
-- ajax
-- express
-#### SQL
-- MySQL(MariaDB)
+#### MSSQL
 
 
 ## 자격/수상
@@ -40,10 +33,16 @@
 |2014.08|자격증|GTQ포토샵1급|한국생산성본부(KPC)|최종합격|
 |2014.08|자격증|E-TEST Professionals 1급|삼성SDS 멀티캠퍼스|최종합격|
 
+## Career
+### 전능아이티
+- 기간 : 2021.06 ~ 2023.07
+- 직무 : 의료용 차트 Smart-NC 개발, 스마트펜차트 개발, 문자서비스 관리
+- 기타 : 병역특례 산업기능요원으로 근무
 
 ## Projects
 ![PY](img)
 ### [The Adventures of Slime](https://github.com/kimmj8205/Python/tree/master/Game%20Project)
+- 소속 : 학생
 - 기간 : 2018.04.30 ~ 2018.06.20
 - 유형 : 게임
 - 역할 : 프로그래밍
@@ -51,25 +50,48 @@
 
 ![SPOT](img)
 ### [Smart POT](https://github.com/kimmj8205/Arduino-Project/tree/master/Arduino%20Project/SPOT)
+- 소속 : 학생
 - 기간 : 2019.03.04 ~ 2019.06.20
 - 유형 : 임베디드 시스템
 - 역할 : 제품설계, 음성녹음, 프로그래밍
 - 사용기술 : Arduino
 
+### [Smart NC]
+- 소속 : 전능아이티
+- 기간 : 2021.06 ~ 2023.07
+- 유형 : 윈도우 어플리케이션
+- 역할 : 프로그래밍, QA, 배포
+- 사용기술 : C#(Winform, wpf, DevExpress), MSSQL
+
+### [스마트펜차트]
+- 소속 : 전능아이티
+- 기간 : 2021.06 ~ 2023.07
+- 유형 : 윈도우 어플리케이션
+- 역할 : 프로그래밍, QA, 배포
+- 사용기술 : C#(wpf), MSSQL
+
+### [문자서비스 관리]
+- 소속 : 전능아이티
+- 기간 : 2021.06 ~ 2023.07
+- 유형 : 클라우드 서버
+- 역할 : 프로그래밍, 운영
+- 사용기술 : C#(ASP.NET), MSSQL
+
+
 
 ## Interest
+- Back-End Server
 - UI/UX Design
 - IoT Service
 
 
 ## TODO
-**새로운것**을 배우는건 언제나 즐거운 일입니다. <br/>
 현재는 아래것들을 익히고 있습니다.
-- Kotlin
+- Python
+- SQL
 
 앞으로는 아래것들을 익히려고 합니다.
-- Swift
-- C++
+- Ruby
 
 ----
 
