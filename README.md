@@ -17,7 +17,7 @@
 - 평점 : 3.91 / 4.5
 
 
-## Skills And Tools
+## Skills and Tools
 ### 많이 해 봤어요
 - C#(Winform, WPF, DevExpress)
 - MS-SQL
